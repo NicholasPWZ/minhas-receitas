@@ -1,0 +1,17 @@
+.li{
+    height: 82px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100%;
+border: solid 1px #f59a27;
+color: #666666;
+
+}
+.imgCaption ul li span{
+    color: #f59a27;
+font-weight: bold;
+margin-top: 6px;
+
+}
